@@ -1,0 +1,10 @@
+## Packages
+dplyr
+tidyr
+readr
+ggplot2
+
+#Tools
+Bowtie2
+sam_tools
+fastqc
